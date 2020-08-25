@@ -5,7 +5,7 @@ My name is **Yogesh Nile**. I'm a 3rd-year BCA(Bachelor of Computer Application)
 |  &nbsp; |    &nbsp; |
 |------|-----------|
 | <strong>FULL NAME</strong> | YOGESH DATTU NILE |
-| <strong>D.O.B.</strong> | 11 Sept 1997 |
+| <strong>Age</strong> | 23 |
 | <strong>ADDRESS</strong> | Surat, Gujarat, India |
 | <strong>E-MAIL</strong> | yogeshnile.work4u@gmail.com |
 | <strong>PHONE</strong> | +91 81540 36913 |

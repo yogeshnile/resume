@@ -49,6 +49,7 @@ My name is **Yogesh Nile**. I'm a 3rd-year BCA(Bachelor of Computer Application)
   - **FlaskApp**
     - Student Result Management System :point_right: [SourceCode ![][Source_Code]][SRMS]
     - Blog Website on FlaskApp :point_right: [SourceCode ![][Source_Code]][Blog-Website]
+    - CRUD in pythin :point_right: [LaunchPad ![][Launchpad]][crud_in_python_launch]  [SourceCode ![][Source_Code]][crud_in_python]
   - **Python Script**
     - Fetch old tweets :point_right: [SourceCode ![][Source_Code]][fetch-old-tweets]
     - Tic Tac Toe Game on Python GUI :point_right: [SourceCode ![][Source_Code]][Tic-Tac-Toe]
@@ -78,6 +79,8 @@ Known on internet as **Yogesh Nile**
 [spam-sms-detector code]: https://github.com/yogeshnile/spam-sms-detector
 [Twitter-Sentiment code]: https://github.com/yogeshnile/Twitter-Sentiment-Analysis-on-Flask-App
 [Twitter-Sentiment]: http://hitalfashion.pythonanywhere.com
+[crud_in_python]: https://github.com/yogeshnile/crud-in-python
+[crud_in_python_launch]: https://crud-flask.herokuapp.com/
 
 [Nifty50]: https://github.com/yogeshnile/Nifty50-Index-Time-Series-Analysis
 [Snake-game]: https://github.com/yogeshnile/Snake-game-in-python
